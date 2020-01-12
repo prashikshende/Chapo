@@ -10,4 +10,4 @@ b. Open network.net.xml file with sumo gui
 c. Run the file
 d. Open Configuration.sumo.cfg with Netsim, connect two ENB with vehicle 1,2 & 3   and vehicle 4 & 5. Then select application layer, select destination source and select 5
 e. Run the file.
-f. Result will display on excel shee
+f. Result will display on excel sheet
